@@ -9,7 +9,7 @@ It helps identify trends related to **attrition rate, salary groups, job roles, 
 ---
 
 ## ✅ Dashboard Preview
-![HR Analytics Dashboard](Dashboard_Screenshot/HR_Dashboard.png)
+![HR Analytics Dashboard]([Dashboard_Screenshot/HR_Dashboard.png](https://github.com/Sparton-byte/Power-BI_HR-Analysis_Dashboard/blob/main/HR_Data_Analysis.png))
 
 ---
 
