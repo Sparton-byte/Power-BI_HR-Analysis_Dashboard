@@ -102,7 +102,7 @@ This dashboard can help HR teams:
 📍 IT Student | Data Analytics Enthusiast  
 📊 Skills: Python, SQL, Excel, Google Sheets, Power BI, Tableau  
 
----
 
-⭐ If you found this project useful, don’t forget to star the repository!
+
+
 
